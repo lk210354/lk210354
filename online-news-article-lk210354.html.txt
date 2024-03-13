@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang=”en”>
+       <head>
+       	<title>Fall Out Boy Concert</title>
+       <meta charset=”UTF-8”>
+       <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+       <meta name=”author” content=”Lydia Krupper”>
+       <meta name=”keywords” content=”concert, fall-out-boy, Pittsburgh, setlist”>
+<meta name=”description” content=”Fall Out Boy’s closest show in Pennsylvania! Soon arriving to you.”>
+       </head>
+       <body>
+       <h3>Fall Out Boy in Pittsburgh</h3>
+<p>On March 27th, a Fall Out Boy concert will be held at the PPG Paints Arena in Pittsburgh. They have been touring as a promotion for their latest album, <i>“So Much (for) Stardust.”</i> They will be performing alongside Jimmy Eat World, with hit song <i>”The Middle</i>. Excited fans have been preparing and stocking up on plenty of merchandise for the concert. One fan excitedly stated, <q>I bought out everything in the store! I’ve been waiting for this moment my entire life.</q></p>
+	<hr/>
+	<h3>Previous Concerts</h3>
+<p>Fall Out Boy has come to Pittsburgh in the past on several occasions. For a unique and incredible concert, they teamed up with other famous bands, Green Day and Weezer, to put on a spectacular show together. Fans from all around came to watch the stunning performance. Additionally, it is not the first time they have performed at the PPG Paints Arena. Previously, as a promotion for their <i>“MANIA”</i> album, they returned to the venue for another show.</p>
+
+<h3>Setlist</h3>
+<p>In typical concert fashion, their setlist follows a familiar trend. Fall Out Boy performs relatively the same songs throughout the entire tour. Since the release of the new album, more songs will have been added. The current setlist features covers and plenty of songs from their new album. It even includes some of their older songs such as <i>”What a Catch, Donnie”</i> from an early album. Even those who are not well-versed in all of Fall Out Boy’s songs would be able to find something enjoyable throughout the show.</p>
+       </body>
+</html>
