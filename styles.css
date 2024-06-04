@@ -1,0 +1,53 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Table styles */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Pseudo-class for highlighting alternate rows */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Golf scorecard specific styles */
+.scorecard.golf th:nth-child(3),
+.scorecard.golf th:nth-child(4),
+.scorecard.golf td:nth-child(3),
+.scorecard.golf td:nth-child(4) {
+    background-color: #cde6c7; /* Light green */
+}
+
+/* Baseball scorecard specific styles */
+.scorecard.baseball th:nth-child(2),
+.scorecard.baseball th:nth-child(3),
+.scorecard.baseball td:nth-child(2),
+.scorecard.baseball td:nth-child(3) {
+    background-color: #ffcccc; /* Light red */
+}
+
+/* Bowling scorecard specific styles */
+.scorecard.bowling th:nth-child(2),
+.scorecard.bowling th:nth-child(3),
+.scorecard.bowling td:nth-child(2),
+.scorecard.bowling td:nth-child(3) {
+    background-color: #c9c9ff; /* Light blue */
+}
